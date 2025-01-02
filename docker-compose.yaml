@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: ferozbasha98/nodeappimage-jenkins
+    image: ferozshaik0417/nodeappimage-jenkins
     ports:
       - "8000:8000"
